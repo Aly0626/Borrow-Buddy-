@@ -6,6 +6,9 @@ workflow and timelines
 
 Phase 1: Planning & Research (Weeks 1-2) •Research app requirements and features. •Plan the project structure and flow.
 
-Phase 2: UI Design (Weeks 3-4) •Sketch wireframes for key screens: Dashboard,Borrowing/Lending entries,Notifications •Iterate on designs based on feedback from friends or potential users.
+Phase 2: UI Design (Weeks 3-4) 
+•Sketch wireframes for key screens: Dashboard,Borrowing/Lending entries,Notifications 
+•Iterate on designs based on feedback from friends or potential users.
 
-Phase 3: Development (weeks 5) •I am in the process of developing my mobile application, but progress has been delayed due to limited resources.
+Phase 3: Development (weeks 5) 
+•I am in the process of developing my mobile application, but progress has been delayed due to limited resources.
